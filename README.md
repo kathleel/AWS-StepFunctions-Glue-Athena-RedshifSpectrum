@@ -3,6 +3,6 @@ This repository contains ETL scripts by using AWS StepFunctions, AWS Glue, Athen
 
 AWS Step Function, Glue Python shell  for Redshift Spectrum ETL
 
-![] ("images/step-glue-redshift.png")
+![]("images/step-glue-redshift.png")
 
 
